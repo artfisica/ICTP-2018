@@ -4,19 +4,21 @@
 
 * What is a notebook?
 
-** Why are they so useful? In the way they work.
-
-** Science reproducibility
+  * Why are they so useful?
+  * The way they work.
+  * Science reproducibility
 
 * ROOT + Jupyter
-** The HEP cases
-** The UN data case
+  * The HEP cases
+  * The UN data case
+
 * How to get the resources in this class
 * Conclusions
 
 
-## Intro
+## Introduction
 How familiar are you with the Jupyter Notebooks?
+
 
 ## Jupyter Notebook project
 https://indico.cern.ch/event/724941/attachments/1641578/2624085/cern_talk.pdf
@@ -53,21 +55,26 @@ https://github.com/artfisica/hackathon2017bigdata/tree/master/analysis_notebooks
 http://atlas.cern/updates/atlas-blog/HEP-education-worldwide-with-atlas-open-data
 
 
-## Hands-On with the Google + Binder + GitHub
-*a)* Create the data: Google Doc
+## Hands-On with a Google spreadsheet + GitHub + MyBinder
+
+**a)** Create/Update the data: Google spreadsheet
 https://docs.google.com/spreadsheets/d/1nH8J5PViu8yRVMAY5q3ydS6Onqv5ZOh3tdeM5MP9YQo/edit#gid=0
 
-*b)* Update/create the Jupyter notebook
+**b)** Update/Create the Jupyter notebook
+  *b.1)* Edit some lines in the code or input file
+  *b.2)* Unsing the VM or local instalation, or cloning this repo and using MyBinder (see *f)* below)
 
-*c)* Edit some lines in the code or input file
-
-*d)* Update/Create a GitHub Repository
+**c)** Update/Create/Clone a GitHub Repository
 https://github.com/artfisica/ICTP-2018
 
-*e)* Add/recreate the notebook into the repository if needed
+**d)** Add/Recreate/Update the notebook into the repository if needed
 
-*f)* Try in MyBinder 
+**e)** Try in MyBinder service
 https://mybinder.org/
+
+**f)** Use nbviewer service to share and visualise your work
+http://nbviewer.jupyter.org/
+
 
 
 -----------
