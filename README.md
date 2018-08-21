@@ -1,4 +1,4 @@
 # ICTP-2018
 Repo for exercises and tests for workshop at ICTP - 2018
 
-## See Material folder for details on the classes
+## See [Class material](https://github.com/artfisica/ICTP-2018/tree/master/class-material) folder for details on the classes
