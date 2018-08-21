@@ -3,8 +3,11 @@
 # Today's Class
 
 * What is a notebook?
+
 ** Why are they so useful? In the way they work.
+
 ** Science reproducibility
+
 * ROOT + Jupyter
 ** The HEP cases
 ** The UN data case
