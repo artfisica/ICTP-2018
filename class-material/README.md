@@ -36,6 +36,11 @@ https://swan.web.cern.ch/content/basic-examples
 http://nbviewer.jupyter.org/github/atlas-outreach-data-tools/notebooks/tree/master/november_2017_v-1.0/
 
 
+### Get the Virtual Machine
+* Download the VM S+ for better performance and tools
+http://opendata.atlas.cern/extendedanalysis/vm-toolbox.php
+
+
 ## No HEP data inside ROOT
 https://github.com/artfisica/hackathon2017bigdata/tree/master/analysis_notebooks
 
@@ -48,14 +53,14 @@ http://atlas.cern/updates/atlas-blog/HEP-education-worldwide-with-atlas-open-dat
 *a)* Create the data: Google Doc
 https://docs.google.com/spreadsheets/d/1nH8J5PViu8yRVMAY5q3ydS6Onqv5ZOh3tdeM5MP9YQo/edit#gid=0
 
-*b)* Update/create the jupyter notebook
+*b)* Update/create the Jupyter notebook
 
-*c)* Edit some lines
+*c)* Edit some lines in the code or input file
 
 *d)* Update/Create a GitHub Repository
 https://github.com/artfisica/ICTP-2018
 
-*e)* Add the Notebook
+*e)* Add/recreate the notebook into the repository if needed
 
 *f)* Try in MyBinder 
 https://mybinder.org/
