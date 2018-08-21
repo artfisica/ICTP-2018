@@ -42,7 +42,8 @@ http://nbviewer.jupyter.org/github/atlas-outreach-data-tools/notebooks/tree/mast
 ### Get the Virtual Machine
 * Download the VM S+ for better performance and tools
 http://opendata.atlas.cern/extendedanalysis/vm-toolbox.php
-
+* Get the VirtualBox according your OS
+https://www.virtualbox.org/wiki/Downloads
 
 ## No HEP data inside ROOT
 https://github.com/artfisica/hackathon2017bigdata/tree/master/analysis_notebooks
