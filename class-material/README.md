@@ -57,22 +57,22 @@ http://atlas.cern/updates/atlas-blog/HEP-education-worldwide-with-atlas-open-dat
 
 ## Hands-On with a Google spreadsheet + GitHub + MyBinder
 
-**a)** Create/Update the data: Google spreadsheet
+* **a)** Create/Update the data: Google spreadsheet
 https://docs.google.com/spreadsheets/d/1nH8J5PViu8yRVMAY5q3ydS6Onqv5ZOh3tdeM5MP9YQo/edit#gid=0
 
-**b)** Update/Create the Jupyter notebook
-  *b.1)* Edit some lines in the code or input file
-  *b.2)* Unsing the VM or local instalation, or cloning this repo and using MyBinder (see *f)* below)
+* **b)** Update/Create the Jupyter notebook
+  * **b.1)** Edit some lines in the code or input file
+  * **b.2)** Unsing the VM or local instalation, or cloning this repo and using MyBinder (see point **f)** below)
 
-**c)** Update/Create/Clone a GitHub Repository
+* **c)** Update/Create/Clone a GitHub Repository
 https://github.com/artfisica/ICTP-2018
 
-**d)** Add/Recreate/Update the notebook into the repository if needed
+* **d)** Add/Recreate/Update the notebook into the repository if needed
 
-**e)** Try in MyBinder service
+* **e)** Try in MyBinder service
 https://mybinder.org/
 
-**f)** Use nbviewer service to share and visualise your work
+* **f)** Use nbviewer service to share and visualise your work
 http://nbviewer.jupyter.org/
 
 
