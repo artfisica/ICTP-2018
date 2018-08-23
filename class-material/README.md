@@ -1,9 +1,11 @@
-## This folder contains the PDFs and other material used in the workshop at ICTP.
+### This folder contains the PDFs and other material used in the workshop at ICTP.
 
-# Today's Class
+-------------
 
+# Class #1
+
+**Overview**
 * What is a notebook?
-
   * Why are they so useful?
   * The way they work.
   * Science reproducibility
@@ -11,6 +13,7 @@
 * ROOT + Jupyter
   * The HEP cases
   * The UN data case
+  * The [NOAA](http://www.noaa.gov) data case
 
 * How to get the resources in this class
 * Conclusions
@@ -42,7 +45,7 @@ http://nbviewer.jupyter.org/github/atlas-outreach-data-tools/notebooks/tree/mast
 
 
 ### Get the Virtual Machine
-* Download the VM S+ for better performance and tools: 
+* Download the VM S+ for better performance and tools:
 http://opendata.atlas.cern/extendedanalysis/vm-toolbox.php
 
 
@@ -88,6 +91,16 @@ https://mybinder.org
 http://nbviewer.jupyter.org
 
 
+
+-----------
+
+# Class #2
+
+
+* Satellite pictures used in the example
+   * https://www.ncdc.noaa.gov/gibbs/availability/2018-01-01
+      * https://www.ncdc.noaa.gov/gibbs/html/GOE-13/WV/2018-01-01-00
+      * https://www.ncdc.noaa.gov/gibbs/html/GOE-13/WV/2018-01-01-03
 
 -----------
 August 2018
