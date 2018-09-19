@@ -1,4 +1,6 @@
-### This folder contains the PDFs and other material used in the workshop at ICTP.
+# Open Data training
+## This folder contains the PDFs and other material used in the several Open Data workshop in 2018
+arturos@cern.ch
 
 -------------
 
@@ -103,4 +105,4 @@ http://nbviewer.jupyter.org
       * https://www.ncdc.noaa.gov/gibbs/html/GOE-13/WV/2018-01-01-03
 
 -----------
-August 2018
+August-September-October 2018
